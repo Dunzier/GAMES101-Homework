@@ -1,0 +1,11 @@
+# CMake build directories
+build/
+
+# Compiled binaries
+*.exe
+*.obj
+*.pdb
+*.ilk
+
+# Generated output images
+output.png
